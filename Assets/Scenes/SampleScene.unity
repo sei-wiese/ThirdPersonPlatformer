@@ -776,10 +776,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 100
-  jumpForce: 7
-  maxJumps: 2
   cameraTransform: {fileID: 1920299723}
   inputManager: {fileID: 2126672772}
+  jumpForce: 7
+  maxJumps: 2
+  dashSpeedMultiplier: 2
 --- !u!1 &1920299717
 GameObject:
   m_ObjectHideFlags: 0
