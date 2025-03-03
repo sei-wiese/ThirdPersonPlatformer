@@ -1,7 +1,7 @@
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
-    [SerializeField] private float moveSpeed = 10f;         // Default movement speed
+    [SerializeField] private float moveSpeed = 10f;          // Default movement speed
     [SerializeField] private Transform cameraTransform;      // Reference to the camera's Transform
     [SerializeField] private InputManager inputManager;      // Reference to the InputManager
 
