@@ -1,3 +1,5 @@
+Third Person Platformer Demo: https://youtu.be/tdIc1kahQis
+
 Implemented Functionality:
 - Third Person Platformer: Implemented a character controller with camera-driven movement.
 - Player Movement: Controlled via WASD with movement direction determined by the camera's orientation.
@@ -7,5 +9,4 @@ Implemented Functionality:
 - Coin Collection: Coins are rotating collectibles that update the score via a GameManager upon player collision.
 - Score UI: Score is displayed using TextMeshPro on a Canvas and updated in real time.
 
-Third Person Platformer Demo:
-https://youtu.be/tdIc1kahQis
+
