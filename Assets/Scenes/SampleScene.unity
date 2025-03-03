@@ -2162,7 +2162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2bec5afefc14ba983f8ba76d232736, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
+  moveSpeed: 20
   cameraTransform: {fileID: 1920299723}
   inputManager: {fileID: 2126672772}
   jumpForce: 7
