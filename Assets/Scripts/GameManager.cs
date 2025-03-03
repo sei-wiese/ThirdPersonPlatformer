@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro; // TextMeshProを使う場合
+using TMPro; // TextMeshPro
 
 public class GameManager : MonoBehaviour {
     private int score = 0;
